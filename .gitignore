@@ -1,8 +1,16 @@
+# Python / Jupyter
 __pycache__/
 *.pyc
-.idea/
-.vscode/
-.env/
-data/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# 数据集（别传大文件）
 *.csv
+*.parquet
+*.zip
 *.md
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
