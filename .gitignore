@@ -9,7 +9,7 @@ venv/
 *.csv
 *.parquet
 *.zip
-*.md
+
 
 # 系统垃圾
 .DS_Store
